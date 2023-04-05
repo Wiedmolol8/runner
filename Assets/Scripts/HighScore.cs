@@ -16,13 +16,13 @@ public class HighScore : MonoBehaviour
         
     }
 
-    void Update()
-    {
-        score++;
+    //void Update()
+    //{
+    //    score++;
 
-        if(score > highscore)
-        {
-            highscore = score;
-        }
-    }
+    //    if(score > highscore)
+    //    {
+    //        highscore = score;
+    //    }
+    //}
 }
